@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239298314407",
+    "project_id": "arshop-a835f",
+    "storage_bucket": "arshop-a835f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239298314407:android:b9ebb8c4ec6d842f6fdb82",
+        "android_client_info": {
+          "package_name": "com.anish_888.ARshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKUggasf-aYjtG-6oM2OPb8VsIV9yB4ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
